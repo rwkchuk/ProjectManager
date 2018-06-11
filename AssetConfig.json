@@ -1,0 +1,39 @@
+{
+  "AssetRules": [
+    {
+      "type": "Animation",
+      "path": "Source\\Animation",
+      "extension": ".mb"
+    },
+    {
+      "type": "Rig",
+      "path": "Source\\Animation\\Rig",
+      "extension": ".mb"
+    },
+    {
+      "type": "Environment",
+      "path": "Source\\Mesh\\Environment",
+      "extension": ".mb"
+    },
+    {
+      "type": "Character",
+      "path": "Source\\Mesh\\Character",
+      "extension": ".mb"
+    },
+    {
+      "type": "Mesh",
+      "path": "Source\\Mesh",
+      "extension": ".mb"
+    },
+    {
+      "type": "Environment Texture",
+      "path": "Source\\Mesh\\Environment\\Texture",
+      "extension": ".png"
+    },
+    {
+      "type": "Character Texture",
+      "path": "Source\\Mesh\\Character\\Texture",
+      "extension": ".png"
+    }
+  ]
+}

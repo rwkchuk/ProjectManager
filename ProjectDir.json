@@ -1,0 +1,166 @@
+{
+  "type": "Folder",
+  "name": "EMPTYProject",
+  "children": [
+    {
+      "type": "Folder",
+      "name": "Tools",
+      "children": []
+    },
+    {
+      "type": "Folder",
+      "name": "Temp",
+      "children": [
+        {
+          "type": "Asset",
+          "name": "AssetConfig.json",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "Folder",
+      "name": "Intermediate",
+      "children": [
+        {
+          "type": "Folder",
+          "name": "Tools",
+          "children": []
+        },
+        {
+          "type": "Folder",
+          "name": "Temp",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "Folder",
+      "name": "Source",
+      "children": [
+        {
+          "type": "Folder",
+          "name": "Tools",
+          "children": []
+        },
+        {
+          "type": "Folder",
+          "name": "Temp",
+          "children": []
+        },
+        {
+          "type": "Folder",
+          "name": "Animation",
+          "children": [
+            {
+              "type": "Folder",
+              "name": "Tools",
+              "children": []
+            },
+            {
+              "type": "Folder",
+              "name": "Temp",
+              "children": []
+            },
+            {
+              "type": "Folder",
+              "name": "Rig",
+              "children": [
+                {
+                  "type": "Folder",
+                  "name": "Tools",
+                  "children": []
+                },
+                {
+                  "type": "Folder",
+                  "name": "Temp",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Folder",
+          "name": "Mesh",
+          "children": [
+            {
+              "type": "Folder",
+              "name": "Tools",
+              "children": []
+            },
+            {
+              "type": "Folder",
+              "name": "Temp",
+              "children": []
+            },
+            {
+              "type": "Folder",
+              "name": "Character",
+              "children": [
+                {
+                  "type": "Folder",
+                  "name": "Tools",
+                  "children": []
+                },
+                {
+                  "type": "Folder",
+                  "name": "Temp",
+                  "children": []
+                },
+                {
+                  "type": "Folder",
+                  "name": "Texture",
+                  "children": [
+                    {
+                      "type": "Folder",
+                      "name": "Tools",
+                      "children": []
+                    },
+                    {
+                      "type": "Folder",
+                      "name": "Temp",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Folder",
+              "name": "Environment",
+              "children": [
+                {
+                  "type": "Folder",
+                  "name": "Tools",
+                  "children": []
+                },
+                {
+                  "type": "Folder",
+                  "name": "Temp",
+                  "children": []
+                },
+                {
+                  "type": "Folder",
+                  "name": "Texture",
+                  "children": [
+                    {
+                      "type": "Folder",
+                      "name": "Tools",
+                      "children": []
+                    },
+                    {
+                      "type": "Folder",
+                      "name": "Temp",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ] 
+}
